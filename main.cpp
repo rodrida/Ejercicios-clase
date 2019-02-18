@@ -1,6 +1,6 @@
 /* 
    Cedillo Nájera Eric Rodrigo
-   Ejercicio 1
+   Práctica 1
    Visual Studio 2017
    Este programa dibuja una "Tetera", este objeto esta definido
  * en GLUT, se crea una fuente de luz, y un material */
@@ -118,7 +118,7 @@ int main(int argc, char **argv)
 
 	 // Creamos literalmente la ventana y le adjudicamos el nombre que se
 	 // observara en su barra de titulo.
-	 glutCreateWindow ("PrácticaCNER");
+	 glutCreateWindow ("Tetera");
 
 	 // Inicializamos el sistema 
 	 init();
